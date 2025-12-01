@@ -1,0 +1,1 @@
+// Component removed to match new layout
